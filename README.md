@@ -1,5 +1,5 @@
 # DG Pin Indicator
-This repository contains the files for the disc golf pin indicator created by the [Cookeville Disc Golf Club](https://www.facebook.com/groups/122397574495499/) in Cookeville, TN.
+This repository contains files for the disc golf pin indicator created by the [Cookeville Disc Golf Club](https://www.facebook.com/groups/122397574495499/) in Cookeville, TN.
 
 Email thill@tntech.edu if you want to install these on your course. We would love to hear from you. 
 
